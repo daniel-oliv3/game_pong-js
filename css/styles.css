@@ -19,3 +19,12 @@ body {
     border: 1px solid #000;
     background-color: #000;
 }
+
+#dvBola {
+    position: absolute;
+    height: 20px;
+    top: 240px;
+    left: 475px;
+    width: 20px;
+    background-color: #888;
+}
