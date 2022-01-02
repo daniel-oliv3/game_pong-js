@@ -1,0 +1,21 @@
+body {
+    margin: 0px;
+    background-color: #aaa;
+}
+
+#dvPainel {
+    display: flex;
+    height: 50px;
+    align-items: center;
+}
+
+.itemPainel {
+    margin: 5px;
+}
+
+#dvJogo {
+    width: 960px;
+    height: 500px;
+    border: 1px solid #000;
+    background-color: #000;
+}
