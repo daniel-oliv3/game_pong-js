@@ -36,3 +36,11 @@ body {
     background-color: #888;
     top: 180px;
 }
+
+.esquerda {
+    left: 10px;
+}
+
+.direita {
+    left: 930px;
+}
