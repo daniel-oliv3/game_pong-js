@@ -28,3 +28,11 @@ body {
     width: 20px;
     background-color: #888;
 }
+
+.barra {
+    position: absolute;
+    width: 20px;
+    height: 140px;
+    background-color: #888;
+    top: 180px;
+}
